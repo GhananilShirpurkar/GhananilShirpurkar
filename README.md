@@ -1,9 +1,9 @@
-<!-- Header Banner -->
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Applied%20AI%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20intelligent%20systems%20that%20ship&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=AI%20Backend%20Developer%20(in%20training)&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </div>
 
-<h3 align="center">Backend Developer specializing in AI-powered systems</h3>
+<h3 align="center">Computer Science Student • Backend & AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://instagram.com/ghananil_2376"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
@@ -13,20 +13,20 @@
 
 ---
 
-## 🎯 What I Do
+## 🎓 Currently
 
-I architect and deploy **production-grade AI backend systems** that solve real problems.
+CS student learning to build **production-ready AI backend systems**. I work with:
 
-**Core Stack:**
-- **Frameworks:** Django (scalable monoliths) • FastAPI (high-performance AI services)
-- **AI/ML:** LLM integration • RAG systems • Semantic search • Vector embeddings
-- **Infrastructure:** REST API design • Docker • PostgreSQL • Production workflows
+- **Django** — for structured, scalable applications  
+- **FastAPI** — for high-performance AI services and model endpoints  
 
-> 🚀 **Goal:** Ship real-world AI products — not experiments.
+**Exploring:** REST API architecture • LLM integration • RAG systems • Semantic search • Embeddings
+
+**Goal:** Become an Applied AI Engineer who ships real-world AI products.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Learning Stack
 
 **Backend & AI**
 <p>
@@ -35,29 +35,22 @@ I architect and deploy **production-grade AI backend systems** that solve real p
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 </p>
 
-**Data & Infrastructure**
+**Data & Tools**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector_DBs-000000?style=flat-square&logo=pinecone&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
-**Frontend (When Needed)**
-<p>
   <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhananilShirpurkar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhananilShirpurkar&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhananilShirpurkar&theme=tokyonight&hide_border=true&layout=compact&langs_count=6"/>
 </div>
 
@@ -67,17 +60,9 @@ I architect and deploy **production-grade AI backend systems** that solve real p
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GhananilShirpurkar&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15"/>
-</div>
-
----
-
 <div align="center">
   
-  **Open to collaborating on AI/ML backend projects**
+  **Always learning. Always building.**
   
   <img src="https://komarev.com/ghpvc/?username=GhananilShirpurkar&color=667eea&style=flat-square&label=Profile+Views"/>
   
