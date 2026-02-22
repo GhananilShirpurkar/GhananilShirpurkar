@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Backend%20Developer%20%7C%20AI%20Enthusiast&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </div>
 
-<h3 align="center">Computer Science Student | Learning by Building</h3>
+<h3 align="center">Information Technology Student | Learning by Building</h3>
 
 <p align="center">
   <a href="https://instagram.com/ghananil_2376"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
@@ -15,7 +15,7 @@
 
 ## 🎓 About Me
 
-CS student learning backend development with a focus on AI integration. Currently building my first full project.
+IT student learning backend development with a focus on AI integration. Currently building my first full project.
 
 **Learning:**
 - **Django** — for structured, scalable applications  
