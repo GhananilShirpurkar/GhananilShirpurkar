@@ -188,7 +188,7 @@ MediSync uses a supervisor-worker agent architecture: a coordinator agent routes
 | **Performance** | TFLite INT8 quantized model, sub-20ms inference on mid-range Android |
 | **Security** | Privacy-first: no message data leaves the device during classification |
 | **Impact** | Demonstrates full ML pipeline ownership — data, training, conversion, deployment |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-GhananilShirpurkar%2FSafeGuardAI-7c3aed?style=flat-square&logo=github)](https://github.com/GhananilShirpurkar/SafeGuardAI) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-GhananilShirpurkar%2FSafeGuard-AI-7c3aed?style=flat-square&logo=github)](https://github.com/GhananilShirpurkar/SafeGuardAI) |
 
 </div>
 
