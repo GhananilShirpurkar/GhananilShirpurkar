@@ -188,28 +188,116 @@ Mobile threat classification · On-chip INT8 inference · Zero-telemetry privacy
 
 <br><br>
 
-## 🧬 CORE STACK
+## 🧬 CORE TECHNOLOGY STACK
 
 <div align="center">
 
-<br>
-
-<!-- Visual Icon Grid (5x2) -->
-<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,react,postgres,docker,linux,cpp,mongodb,git&theme=dark&perline=5" height="100" alt="Core Technologies" />
-
-<br><br>
-
+<!-- Engineering Focus Pipeline Visual -->
 <p align="center">
-  <code>LANGGRAPH</code> &nbsp;•&nbsp; 
-  <code>CHROMADB</code> &nbsp;•&nbsp; 
-  <code>TFLITE INT8</code> &nbsp;•&nbsp; 
-  <code>GROQ LPU</code> &nbsp;•&nbsp; 
-  <code>GEMINI SDK</code> &nbsp;•&nbsp; 
-  <code>WHISPER</code> &nbsp;•&nbsp; 
-  <code>EASYOCR</code>
+  <b>SPECIALIZATION FOCUS</b><br>
+  <sub>Breadth across the stack · Deep specialization in agent loops, retrieval, and systems</sub>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/01-AI%20%2F%20MACHINE%20LEARNING-0b0f19?style=for-the-badge&logo=pytorch&logoColor=38bdf8" alt="AI / ML" />
+  &nbsp;➔&nbsp;
+  <img src="https://img.shields.io/badge/02-AGENTIC%20GRAPHS-0b0f19?style=for-the-badge&logo=python&logoColor=38bdf8" alt="Agents" />
+  &nbsp;➔&nbsp;
+  <img src="https://img.shields.io/badge/03-PRODUCTION%20RAG-0b0f19?style=for-the-badge&logo=databricks&logoColor=38bdf8" alt="RAG" />
+  &nbsp;➔&nbsp;
+  <img src="https://img.shields.io/badge/04-EDGE%20AI%20%26%20SYSTEMS-0b0f19?style=for-the-badge&logo=cpu&logoColor=38bdf8" alt="Edge" />
+</p>
+
+<br>
+
 </div>
+
+<!-- Categorized Visual Technology Matrix -->
+<table width="100%">
+  <!-- Category 01 & 02 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h4><code>01 // LANGUAGES</code></h4>
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,java,kotlin,js,ts,bash,html,css&theme=dark" alt="Languages" /><br><br>
+      <b>Primary:</b> <code>Python 3.11+</code> · <code>C / C++</code> · <code>TypeScript</code><br>
+      <b>Dialects & Runtimes:</b> <code>Kotlin</code> · <code>Java</code> · <code>JavaScript (ES6+)</code> · <code>SQL</code> · <code>Bash Shell</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><code>02 // AI & MACHINE LEARNING</code></h4>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark" alt="ML Frameworks" /><br><br>
+      <b>Frameworks & Models:</b> <code>PyTorch</code> · <code>TensorFlow Lite (TFLite)</code> · <code>scikit-learn</code> · <code>Whisper</code> · <code>EasyOCR</code><br>
+      <b>Inference & Quantization:</b> <code>INT8 Post-Training Quantization</code> · <code>Model Distillation</code> · <code>Groq LPU (Llama-3)</code> · <code>Gemini API</code>
+    </td>
+  </tr>
+
+  <!-- Category 03 & 04 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h4><code>03 // AGENTIC SYSTEMS (SPECIALIZATION)</code></h4>
+      <p>
+        <img src="https://img.shields.io/badge/FRAMEWORK-LANGGRAPH-38bdf8?style=flat-square&logo=python&logoColor=black" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/FRAMEWORK-LANGCHAIN-38bdf8?style=flat-square&logo=python&logoColor=black" alt="LangChain" />
+        <img src="https://img.shields.io/badge/FRAMEWORK-CREWAI-38bdf8?style=flat-square&logo=python&logoColor=black" alt="CrewAI" />
+      </p>
+      <b>Architecture Topologies:</b><br>
+      • <code>Supervisor-Worker State Graphs</code><br>
+      • <code>Cyclic State Machines & Conditional Routing</code><br>
+      • <code>Deterministic Clinical / Operational Quarantine Gates</code><br>
+      • <code>Structured Pydantic Output Schemas</code><br>
+      • <code>Isolated Node-Level State & Retry Logic</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><code>04 // RAG & VECTOR RETRIEVAL</code></h4>
+      <p>
+        <img src="https://img.shields.io/badge/VECTOR-CHROMADB-38bdf8?style=flat-square&logo=databricks&logoColor=black" alt="ChromaDB" />
+        <img src="https://img.shields.io/badge/VECTOR-MONGODB%20ATLAS-38bdf8?style=flat-square&logo=mongodb&logoColor=black" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/STORAGE-NEON%20POSTGRES-38bdf8?style=flat-square&logo=postgresql&logoColor=black" alt="Neon" />
+      </p>
+      <b>Retrieval Mechanics & Storage:</b><br>
+      • <code>Strict Per-Tenant Namespace Isolation</code><br>
+      • <code>Cosine Distance Gating (Similarity Thresholding)</code><br>
+      • <code>Dense Semantic Embeddings (Gemini SDK)</code><br>
+      • <code>Dynamic Live Web Fallback (Tavily Search API)</code><br>
+      • <code>SQLAlchemy ORM & Alembic Migrations</code>
+    </td>
+  </tr>
+
+  <!-- Category 05 & 06 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h4><code>05 // BACKEND & ASYNC SYSTEMS</code></h4>
+      <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb&theme=dark" alt="Backend" /><br><br>
+      <b>Runtimes & Architecture:</b> <code>FastAPI Async</code> · <code>Pydantic Validation</code> · <code>RESTful APIs</code> · <code>Uvicorn</code><br>
+      <b>Streaming & Security:</b> <code>Server-Sent Events (SSE)</code> · <code>Low TTFT Token Streaming</code> · <code>Clerk JWT Authentication Guards</code> · <code>Session Isolation</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><code>06 // FRONTEND & MOBILE</code></h4>
+      <img src="https://skillicons.dev/icons?i=react,vite,ts,tailwind,androidstudio&theme=dark" alt="Frontend & Mobile" /><br><br>
+      <b>Web Applications:</b> <code>React 18</code> · <code>Vite</code> · <code>TypeScript</code> · <code>Tailwind CSS</code> · <code>HTML5 Semantic</code><br>
+      <b>Mobile Engineering:</b> <code>Android Studio</code> · <code>Kotlin</code> · <code>Java</code> · <code>On-Device TFLite Runtime</code>
+    </td>
+  </tr>
+
+  <!-- Category 07 & 08 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h4><code>07 // INFRASTRUCTURE & DEVOPS</code></h4>
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,vercel&theme=dark" alt="DevOps" /><br><br>
+      <b>Platforms & Runtimes:</b> <code>Docker</code> · <code>Linux (Ubuntu/Debian)</code> · <code>Bash Scripting</code> · <code>Vercel Edge</code><br>
+      <b>CI/CD & Testing:</b> <code>GitHub Actions Pipelines</code> · <code>Automated PR Merge Gates</code> · <code>Postman API Verification</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><code>08 // ENGINEERING CAPABILITY HIERARCHY</code></h4>
+      <br>
+      <b>PRIMARY FOCUS:</b><br>
+      <code>Python</code> · <code>FastAPI</code> · <code>LangGraph</code> · <code>PyTorch</code> · <code>ChromaDB</code> · <code>React</code> · <code>Docker</code> · <code>Linux</code><br><br>
+      <b>SECONDARY STACK:</b><br>
+      <code>CrewAI</code> · <code>MongoDB</code> · <code>TFLite INT8</code> · <code>scikit-learn</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Kotlin</code><br><br>
+      <b>SPECIALIZED TOOLING:</b><br>
+      <code>Whisper</code> · <code>EasyOCR</code> · <code>Groq LPU</code> · <code>Gemini API</code> · <code>Tavily</code> · <code>Clerk</code> · <code>GitHub Actions</code>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
