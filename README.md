@@ -9,33 +9,40 @@
   </p>
 </div>
 
-I build software around applied AI, backend systems, and retrieval workflows, with an interest in making useful things reliable beyond a demo.
+I build software around applied AI, backend systems, and retrieval workflows, with a focus on making useful things reliable beyond a demo.
 
-## Selected projects
+## Selected work
 
-| Project | What it does |
-|---|---|
-| [**Lexis**](https://github.com/GhananilShirpurkar/Lexis) | Document Q&A with retrieval-augmented generation, workspace isolation, and streamed responses. |
-| [**Medisync**](https://github.com/GhananilShirpurkar/Medisync) | Multi-agent pharmacy workflow with rule-based safety checks. |
-| [**SafeGuard-AI**](https://github.com/GhananilShirpurkar/SafeGuard-AI) | Lightweight, on-device scam detection for mobile. |
-| [**Miru**](https://github.com/GhananilShirpurkar/Miru) | Anime discovery app · [Live demo](https://miru-anitrack.vercel.app) |
-| [**CommitGuard**](https://github.com/GhananilShirpurkar/CommitGuard) | Pull request validation using GitHub Actions. |
+**[Lexis](https://github.com/GhananilShirpurkar/Lexis)**  
+Document Q&A with retrieval-augmented generation, workspace isolation, and streamed responses.
 
-## Tools I use
+**[Medisync](https://github.com/GhananilShirpurkar/Medisync)**  
+A multi-agent pharmacy workflow with rule-based safety checks.
+
+**[SafeGuard-AI](https://github.com/GhananilShirpurkar/SafeGuard-AI)**  
+Lightweight, on-device scam detection for mobile.
+
+**[Miru](https://github.com/GhananilShirpurkar/Miru)**  
+An anime discovery app with a [live demo](https://miru-anitrack.vercel.app).
+
+**[CommitGuard](https://github.com/GhananilShirpurkar/CommitGuard)**  
+Pull request validation using GitHub Actions.
+
+## Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,postgres,pytorch,docker,linux&theme=dark" alt="Python, FastAPI, React, TypeScript, PostgreSQL, PyTorch, Docker, and Linux" />
 </div>
 
-**Also exploring:** LangGraph · ChromaDB · RAG · multi-agent systems
+<p align="center"><sub>Also exploring: LangGraph · ChromaDB · RAG · multi-agent systems</sub></p>
 
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GhananilShirpurkar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a8c9b2&icon_color=a8c9b2&text_color=c9d1d9&rank_icon=github" alt="GitHub profile stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhananilShirpurkar&layout=compact&hide_border=true&bg_color=0d1117&title_color=a8c9b2&text_color=c9d1d9&langs_count=6" alt="Most used programming languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=GhananilShirpurkar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a8c9b2&icon_color=a8c9b2&text_color=c9d1d9&rank_icon=github" alt="GitHub profile stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhananilShirpurkar&layout=compact&hide_border=true&bg_color=0d1117&title_color=a8c9b2&text_color=c9d1d9&langs_count=6" alt="Most used programming languages" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=GhananilShirpurkar&hide_border=true&background=0d1117&ring=a8c9b2&fire=cbd9b4&currStreakLabel=a8c9b2&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc" alt="GitHub contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=GhananilShirpurkar&hide_border=true&background=0d1117&ring=a8c9b2&fire=cbd9b4&currStreakLabel=a8c9b2&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc" alt="GitHub contribution streak" />
 </div>
