@@ -29,6 +29,17 @@ I build software around applied AI, backend systems, and retrieval workflows—w
 
 **Also exploring:** LangGraph · ChromaDB · RAG · multi-agent systems
 
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GhananilShirpurkar&show_icons=true&hide_border=true&bg_color=171316&title_color=d8b4c0&icon_color=b57b8e&text_color=d8c7cb&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhananilShirpurkar&layout=compact&hide_border=true&bg_color=171316&title_color=d8b4c0&text_color=d8c7cb" alt="Most-used programming languages" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=GhananilShirpurkar&hide_border=true&background=171316&ring=b57b8e&fire=d8b4c0&currStreakLabel=d8b4c0&sideLabels=d8c7cb&dates=9c858c&sideNums=f4eee9&currStreakNum=f4eee9" alt="GitHub contribution streak" />
+</div>
+
 ---
 
 <div align="center">
