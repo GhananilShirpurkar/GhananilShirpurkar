@@ -9,7 +9,7 @@
   </p>
 </div>
 
-I build software around applied AI, backend systems, and retrieval workflows, with a focus on making useful things reliable beyond a demo.
+I build applied AI and backend systems, with an interest in retrieval, agent workflows, and making software reliable beyond a demo.
 
 ## Selected work
 
@@ -31,10 +31,20 @@ Pull request validation using GitHub Actions.
 ## Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,postgres,pytorch,docker,linux&theme=dark" alt="Python, FastAPI, React, TypeScript, PostgreSQL, PyTorch, Docker, and Linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux,postgres,react,ts,git,githubactions&theme=dark" alt="Python, FastAPI, Docker, Linux, PostgreSQL, React, TypeScript, Git, and GitHub Actions" />
 </div>
 
-<p align="center"><sub>Also exploring: LangGraph · ChromaDB · RAG · multi-agent systems</sub></p>
+**AI & agent systems**  
+LangGraph · Google ADK · LangChain · RAG · Embeddings · Vector search
+
+**Backend & data**  
+Python · FastAPI · Django / DRF · PostgreSQL · ChromaDB · REST APIs
+
+**Tools & infrastructure**  
+Docker · Linux · Git · GitHub Actions · CI/CD
+
+**Frontend**  
+React · TypeScript · Vite · Tailwind CSS
 
 ## GitHub activity
 
